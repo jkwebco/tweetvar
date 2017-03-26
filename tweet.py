@@ -5,6 +5,7 @@ def receiveBuffer(tweets):
 		print ('\n')
 		print ('time: %s' % t.date.strftime("%Y-%m-%d %H:%M"))
 		print "Tweet: %s" % t.text
+		print "permalink: %s" %t.permalink
 	print ('\n')
 	print ('More %d printed to screen...\n' % len(tweets))
 
