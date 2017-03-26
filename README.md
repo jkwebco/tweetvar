@@ -1,2 +1,2 @@
 # tweetvar
-Print out last 10 tweets on something
+Print to screen the last 10 tweets on something
