@@ -7,4 +7,4 @@ Print to screen the last 10 tweets on something with sentiment analysis and perm
 <a href="https://github.com/jkwebco/tweetvar/blob/master/horse.ogg">What's that?</a>
 
 
-[![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
+[![Yeah, that's right!](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://github.com/jkwebco/tweetvar/blob/master/horse.ogg)
