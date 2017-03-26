@@ -1,2 +1,2 @@
 # tweetvar
-Print to screen the last 10 tweets on something with sentiment analysis
+Print to screen the last 10 tweets on something with sentiment analysis and permalink
